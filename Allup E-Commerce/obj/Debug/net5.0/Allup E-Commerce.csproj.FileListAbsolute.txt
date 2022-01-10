@@ -1,0 +1,38 @@
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\bin\Debug\net5.0\appsettings.json
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\bin\Debug\net5.0\Allup E-Commerce.exe
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\bin\Debug\net5.0\Allup E-Commerce.deps.json
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\bin\Debug\net5.0\Allup E-Commerce.runtimeconfig.json
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\bin\Debug\net5.0\Allup E-Commerce.runtimeconfig.dev.json
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\bin\Debug\net5.0\Allup E-Commerce.dll
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\bin\Debug\net5.0\ref\Allup E-Commerce.dll
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\bin\Debug\net5.0\Allup E-Commerce.pdb
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\bin\Debug\net5.0\Allup E-Commerce.Views.dll
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\bin\Debug\net5.0\Allup E-Commerce.Views.pdb
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.AssemblyInfoInputs.cache
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.AssemblyInfo.cs
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.RazorAssemblyInfo.cache
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.RazorAssemblyInfo.cs
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\scopedcss\bundle\Allup E-Commerce.styles.css
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\staticwebassets\Allup E-Commerce.StaticWebAssets.Manifest.cache
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.TagHelpers.input.cache
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.TagHelpers.output.cache
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.RazorCoreGenerate.cache
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.RazorTargetAssemblyInfo.cache
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.RazorTargetAssemblyInfo.cs
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.Views.pdb
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.dll
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\ref\Allup E-Commerce.dll
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.pdb
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.genruntimeconfig.cache
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.csproj.CopyComplete
+C:\Users\tnqar\source\repos\Allup E-Commerce\Allup E-Commerce\obj\Debug\net5.0\Allup E-Commerce.csproj.AssemblyReference.cache
